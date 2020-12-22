@@ -1,5 +1,5 @@
 # AA20-352A_iocs
-List of IOCs from CISA STIX feed related to Alert AA20-352A
+## List of IOCs from CISA STIX feed related to Alert AA20-352A
 
 This repo contains a point-in-time download of the Indicators of Compromise provided by the Cybersecurity and Infrastructure Security Agency (CISA) in their STIX feed accompanying alert [AA20-352a](https://us-cert.cisa.gov/ncas/alerts/aa20-352a).
 
