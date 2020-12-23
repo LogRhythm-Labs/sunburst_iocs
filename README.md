@@ -7,4 +7,4 @@ This repo contains:
 
 LogRhythm customers are encouraged to use the LogRhythm Threat Intelligence Service [TIS](https://docs.logrhythm.com/docs/enterprise/other-logrhythm-applications/threat-intelligence-service-v-1-9-3) to subscribe to the CISA [feed](https://us-cert.cisa.gov/sites/default/files/publications/AA20-352A.stix.xml) rather than use the static CISA lists in this repository. TIS will automatically create lists corresponding to the IOC types and periodically check the CISA feed for updates.
 
-Please see the LogRhythm blog (link to be added) for more information on leveraging LogRhythm to investigate the behavior described in this report.
+Please see the LogRhythm [blog](https://logrhythm.com/blog/how-to-detect-and-search-for-solarwinds-iocs-in-logrhythm/) for more information on leveraging LogRhythm to investigate the behavior described in this report.
